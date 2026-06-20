@@ -68,3 +68,8 @@ port aralıklarının taranmasını önemli ölçüde hızlandırır.
 
 MIT — eğitim amaçlı kullanım için. Kötüye kullanım yazarın
 sorumluluğunda değildir.
+
+
+---
+
+> Made in [discord.gg/codeshare](https://discord.gg/codeshare) · [astra-dev.com.tr](https://astra-dev.com.tr)
